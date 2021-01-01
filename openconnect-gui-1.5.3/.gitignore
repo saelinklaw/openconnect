@@ -1,0 +1,16 @@
+# temporary files
+*.sw[op]
+*~
+
+# project files
+/*.pro.user
+/CMakeLists.txt.user
+
+# temporary build folder
+build-release*/
+
+
+# temporary...
+_xxx/
+*.zip
+*.exe
